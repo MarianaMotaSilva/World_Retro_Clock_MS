@@ -1,5 +1,5 @@
 body {
-  background: #f0dfc190;
+  background: #f0dfc14d;
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
 }
 
 .time small {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 36px;
   vertical-align: middle;
 }
