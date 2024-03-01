@@ -11,7 +11,8 @@ body {
 
 .container {
   background: rgba(255, 255, 255, 0.7);
-  max-width: 550px;
+  max-width: 400px;
+  max-height: 380px;
   padding: 60px;
   margin: 60px auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -31,12 +32,12 @@ body {
 }
 
 .time {
-  font-size: 36px;
+  font-size: 40px;
   font-weight: bold;
 }
 
 .time small {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 36px;
   vertical-align: middle;
 }
@@ -52,7 +53,7 @@ select {
 }
 h1 {
   text-align: center;
-  font-size: 65px;
+  font-size: 45px;
   letter-spacing: 1px;
 }
 h1 a {
@@ -61,10 +62,10 @@ h1 a {
 }
 h2 {
   margin: 0 0 5px;
-  font-size: 38px;
+  font-size: 25px;
 }
 footer {
   text-align: center;
-  font-size: 11px;
+  font-size: 10px;
   font-family: sans-serif;
 }
